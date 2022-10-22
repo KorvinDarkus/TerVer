@@ -20,3 +20,4 @@ void MainWindow::on_ex1Button_clicked()
     ui->outpt->setNum( 1 - (p[0]*(p[1]*(p[2] + p[3] - p[2]*p[3]) + p[4]*p[5] - p[1]*p[4]*p[5]*(p[2] + p[3] - p[2]*p[3])))) ;
 
 };
+
