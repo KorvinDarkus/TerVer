@@ -35,12 +35,12 @@ void MainWindow::on_ex2Button_2_clicked()
         ui->outpt_2->setNum(p_ex2[2]*(1-p_ex2[0])*(1-p_ex2[1])*(1-p_ex2[3]));
         break;
     case 2:
-        ui->outpt->setNum((p_ex2[0]*p_ex2[1]*(1-p_ex2[2])*(1-p_ex2[3]))+(p_ex2[0]*p_ex2[2]*(1-p_ex2[1])*(1-p_ex2[3]))+
-                            (p_ex2[0]*p_ex2[3]*(1-p_ex2[1])*(1-p_ex2[2]))+(p_ex2[1]*p_ex2[2]*(1-p_ex2[0])*(1-p_ex2[3]))+
-                            (p_ex2[1]*p_ex2[3]*(1-p_ex2[0])*(1-p_ex2[2]))+(p_ex2[2]*p_ex2[3]*(1-p_ex2[0])*(1-p_ex2[1])));
+        ui->outpt_2->setNum((p_ex2[0]*p_ex2[1]*(1-p_ex2[2])*(1-p_ex2[3])) + (p_ex2[0]*p_ex2[2]*(1-p_ex2[1])*(1-p_ex2[3]))+
+                            (p_ex2[0]*p_ex2[3]*(1-p_ex2[1])*(1-p_ex2[2])) + (p_ex2[1]*p_ex2[2]*(1-p_ex2[0])*(1-p_ex2[3]))+
+                            (p_ex2[1]*p_ex2[3]*(1-p_ex2[0])*(1-p_ex2[2])) + (p_ex2[2]*p_ex2[3]*(1-p_ex2[0])*(1-p_ex2[1])));
         break;
     case 3:
-        //ui->outpt_2->setNum();
+        //ui->outpt_2->setNum(); Жду формулу
         break;
     default:
         ui->outpt_2->setText("ERROR");
