@@ -1,5 +1,10 @@
 <RCC>
     <qresource prefix="/ex1">
         <file>Resourses/ex1.png</file>
+        <file>Resourses/formul_ex1.png</file>
+        <file>Resourses/ex2_a.png</file>
+        <file>Resourses/ex2_b.png</file>
+        <file>Resourses/ex2_c.png</file>
+        <file>Resourses/ex2_d.png</file>
     </qresource>
 </RCC>
