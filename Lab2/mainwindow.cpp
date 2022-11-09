@@ -48,3 +48,16 @@ void MainWindow::on_ex2Button_2_clicked()
     }
 }
 
+
+void MainWindow::on_spinBox_valueChanged(int h)
+{
+    switch (h)
+    {
+        case 11:
+            ui->inpt1_3->setEnabled(false);
+            ui->inpt2_3->setEnabled(false);
+            ui->inpt3_3->setEnabled(false);
+            ui->inpt4_3->setEnabled(false);
+    }
+}
+
