@@ -40,7 +40,7 @@ void MainWindow::on_ex2Button_2_clicked()
                             (p_ex2[1]*p_ex2[3]*(1-p_ex2[0])*(1-p_ex2[2])) + (p_ex2[2]*p_ex2[3]*(1-p_ex2[0])*(1-p_ex2[1])));
         break;
     case 3:
-        //ui->outpt_2->setNum(); Жду формулу
+        ui->outpt_2->setNum(1-(1-p_ex2[0])*(1-p_ex2[1])*(1-p_ex2[2])*(1-p_ex2[3]));
         break;
     default:
         ui->outpt_2->setText("ERROR");
@@ -51,13 +51,19 @@ void MainWindow::on_ex2Button_2_clicked()
 
 void MainWindow::on_spinBox_valueChanged(int h)
 {
-    switch (h)
+    QDoubleSpinBox *inputs[]={ui->inpt1_e3,ui->inpt2_e3,ui->inpt3_e3,ui->inpt4_e3,ui->inpt5_e3,ui->inpt6_e3,ui->inpt7_e3,ui->inpt8_e3,ui->inpt9_e3,ui->inpt10_e3,ui->inpt11_e3,ui->inpt12_e3};
+    QDoubleSpinBox *inputs2[]={ui->inpt21_e3,ui->inpt22_e3,ui->inpt23_e3,ui->inpt24_e3,ui->inpt25_e3,ui->inpt26_e3,ui->inpt27_e3,ui->inpt28_e3,ui->inpt29_e3,ui->inpt210_e3,ui->inpt211_e3,ui->inpt212_e3};
+
+    for(int i = 0; i < h; i++)
     {
-        case 11:
-            ui->inpt1_3->setEnabled(false);
-            ui->inpt2_3->setEnabled(false);
-            ui->inpt3_3->setEnabled(false);
-            ui->inpt4_3->setEnabled(false);
+        inputs[i]->setEnabled(true);
+        inputs2[i]->setEnabled(true);
+    }
+    for(int i = 11; i > h; i--)
+    {
+        inputs[i]->clear();
+        inputs[i]->setEnabled(false);
+        inputs2[i]->clear();
+        inputs[i]->setEnabled(false);
     }
 }
-
