@@ -19,7 +19,7 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>781</width>
+      <width>791</width>
       <height>721</height>
      </rect>
     </property>
@@ -303,20 +303,20 @@ hr { height: 1px; border-width: 0; }
 p, li { white-space: pre-wrap; }
 hr { height: 1px; border-width: 0; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:8pt;&quot;&gt;Рабочий обслуживает 4 станка, работающих независимо друг от друга. Вероятность того, что за смену i-ый станок потребует наладки, равна pi. Найти вероятность того, что за смену:&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:8pt;&quot;&gt;a) только один станок потребует наладки;&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:8pt;&quot;&gt;b) только третий станок потребует наладки;&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:8pt;&quot;&gt;c) только два станка потребуют наладки;&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:8pt;&quot;&gt;d) хотя бы один станок потребует наладки.&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:8pt;&quot;&gt;Формула для вычисления:&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot;-qt-paragraph-type:empty; margin-top:2px; margin-bottom:2px; margin-left:-9px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:14pt;&quot;&gt;Рабочий обслуживает 4 станка, работающих независимо друг от друга. Вероятность того, что за смену i-ый станок потребует наладки, равна pi. Найти вероятность того, что за смену:&lt;/span&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:14pt;&quot;&gt;a) только один станок потребует наладки;&lt;/span&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:14pt;&quot;&gt;b) только третий станок потребует наладки;&lt;/span&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:14pt;&quot;&gt;c) только два станка потребуют наладки;&lt;/span&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:14pt;&quot;&gt;d) хотя бы один станок потребует наладки.&lt;/span&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt;&quot;&gt;Формула для вычисления:&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot;-qt-paragraph-type:empty; margin-top:2px; margin-bottom:2px; margin-left:-9px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:14pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QTabWidget" name="tabWidget_2">
          <property name="currentIndex">
-          <number>1</number>
+          <number>0</number>
          </property>
          <widget class="QWidget" name="tab_10">
           <attribute name="title">
@@ -327,8 +327,8 @@ hr { height: 1px; border-width: 0; }
             <rect>
              <x>80</x>
              <y>0</y>
-             <width>611</width>
-             <height>171</height>
+             <width>631</width>
+             <height>251</height>
             </rect>
            </property>
            <property name="text">
@@ -352,7 +352,7 @@ hr { height: 1px; border-width: 0; }
              <x>80</x>
              <y>0</y>
              <width>611</width>
-             <height>171</height>
+             <height>241</height>
             </rect>
            </property>
            <property name="text">
@@ -375,8 +375,8 @@ hr { height: 1px; border-width: 0; }
             <rect>
              <x>80</x>
              <y>0</y>
-             <width>611</width>
-             <height>171</height>
+             <width>651</width>
+             <height>271</height>
             </rect>
            </property>
            <property name="text">
@@ -575,7 +575,7 @@ hr { height: 1px; border-width: 0; }
         <x>0</x>
         <y>0</y>
         <width>786</width>
-        <height>473</height>
+        <height>691</height>
        </rect>
       </property>
       <layout class="QVBoxLayout" name="ex1View_2">
@@ -612,6 +612,9 @@ hr { height: 1px; border-width: 0; }
           <layout class="QGridLayout" name="gridLayout_3">
            <item row="2" column="1">
             <widget class="QDoubleSpinBox" name="inpt3_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -652,6 +655,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="4" column="1">
             <widget class="QDoubleSpinBox" name="inpt5_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -665,6 +671,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="3" column="1">
             <widget class="QDoubleSpinBox" name="inpt4_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -719,6 +728,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="5" column="1">
             <widget class="QDoubleSpinBox" name="inpt6_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -736,6 +748,9 @@ hr { height: 1px; border-width: 0; }
           <layout class="QGridLayout" name="gridLayout_4">
            <item row="2" column="1">
             <widget class="QDoubleSpinBox" name="inpt9_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -749,6 +764,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="0" column="1">
             <widget class="QDoubleSpinBox" name="inpt7_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -776,6 +794,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="4" column="1">
             <widget class="QDoubleSpinBox" name="inpt11_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -789,6 +810,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="3" column="1">
             <widget class="QDoubleSpinBox" name="inpt10_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -802,6 +826,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="1" column="1">
             <widget class="QDoubleSpinBox" name="inpt8_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -843,6 +870,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="5" column="1">
             <widget class="QDoubleSpinBox" name="inpt12_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -864,6 +894,9 @@ hr { height: 1px; border-width: 0; }
           <layout class="QGridLayout" name="gridLayout_5">
            <item row="2" column="1">
             <widget class="QDoubleSpinBox" name="inpt23_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -891,19 +924,22 @@ hr { height: 1px; border-width: 0; }
            <item row="3" column="0">
             <widget class="QLabel" name="label_29">
              <property name="text">
-              <string>P(A|H4)</string>
+              <string>P(H4|A)</string>
              </property>
             </widget>
            </item>
            <item row="4" column="0">
             <widget class="QLabel" name="label_30">
              <property name="text">
-              <string>P(A|H5)</string>
+              <string>P(H5|A)</string>
              </property>
             </widget>
            </item>
            <item row="4" column="1">
             <widget class="QDoubleSpinBox" name="inpt25_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -917,6 +953,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="3" column="1">
             <widget class="QDoubleSpinBox" name="inpt24_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -944,33 +983,36 @@ hr { height: 1px; border-width: 0; }
            <item row="2" column="0">
             <widget class="QLabel" name="label_31">
              <property name="text">
-              <string>P(A|H3)</string>
+              <string>P(H3|A)</string>
              </property>
             </widget>
            </item>
            <item row="1" column="0">
             <widget class="QLabel" name="label_32">
              <property name="text">
-              <string>P(A|H2)</string>
+              <string>P(H2|A)</string>
              </property>
             </widget>
            </item>
            <item row="0" column="0">
             <widget class="QLabel" name="label_33">
              <property name="text">
-              <string>P(A|H1)</string>
+              <string>P(H1|A)</string>
              </property>
             </widget>
            </item>
            <item row="5" column="0">
             <widget class="QLabel" name="label_34">
              <property name="text">
-              <string>P(A|H6)</string>
+              <string>P(H6|A)</string>
              </property>
             </widget>
            </item>
            <item row="5" column="1">
             <widget class="QDoubleSpinBox" name="inpt26_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -988,6 +1030,9 @@ hr { height: 1px; border-width: 0; }
           <layout class="QGridLayout" name="gridLayout_6">
            <item row="2" column="1">
             <widget class="QDoubleSpinBox" name="inpt29_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -1001,6 +1046,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="0" column="1">
             <widget class="QDoubleSpinBox" name="inpt27_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -1015,19 +1063,22 @@ hr { height: 1px; border-width: 0; }
            <item row="3" column="0">
             <widget class="QLabel" name="label_35">
              <property name="text">
-              <string>P(A|H10)</string>
+              <string>P(H10|A)</string>
              </property>
             </widget>
            </item>
            <item row="4" column="0">
             <widget class="QLabel" name="label_36">
              <property name="text">
-              <string>P(A|H11)</string>
+              <string>P(H11|A)</string>
              </property>
             </widget>
            </item>
            <item row="4" column="1">
             <widget class="QDoubleSpinBox" name="inpt211_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -1041,6 +1092,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="3" column="1">
             <widget class="QDoubleSpinBox" name="inpt210_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -1054,6 +1108,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="1" column="1">
             <widget class="QDoubleSpinBox" name="inpt28_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -1068,33 +1125,36 @@ hr { height: 1px; border-width: 0; }
            <item row="2" column="0">
             <widget class="QLabel" name="label_37">
              <property name="text">
-              <string>P(A|H9)</string>
+              <string>P(H9|A)</string>
              </property>
             </widget>
            </item>
            <item row="1" column="0">
             <widget class="QLabel" name="label_38">
              <property name="text">
-              <string>P(A|H8)</string>
+              <string>P(H8|A)</string>
              </property>
             </widget>
            </item>
            <item row="0" column="0">
             <widget class="QLabel" name="label_39">
              <property name="text">
-              <string>P(A|H7)</string>
+              <string>P(H7|A)</string>
              </property>
             </widget>
            </item>
            <item row="5" column="0">
             <widget class="QLabel" name="label_40">
              <property name="text">
-              <string>P(A|H12)</string>
+              <string>P(H12|A)</string>
              </property>
             </widget>
            </item>
            <item row="5" column="1">
             <widget class="QDoubleSpinBox" name="inpt212_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -1110,6 +1170,49 @@ hr { height: 1px; border-width: 0; }
          </item>
         </layout>
        </item>
+       <item>
+        <widget class="QTabWidget" name="tabWidget_3">
+         <property name="currentIndex">
+          <number>0</number>
+         </property>
+         <widget class="QWidget" name="tab_4">
+          <attribute name="title">
+           <string>Формула Полной Вероятности</string>
+          </attribute>
+          <widget class="QWidget" name="horizontalLayoutWidget">
+           <property name="geometry">
+            <rect>
+             <x>110</x>
+             <y>80</y>
+             <width>561</width>
+             <height>80</height>
+            </rect>
+           </property>
+           <layout class="QHBoxLayout" name="horizontalLayout_6">
+            <item>
+             <widget class="QPushButton" name="ex31Button">
+              <property name="text">
+               <string>Вычислить</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QLabel" name="ex3Result">
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+         <widget class="QWidget" name="tab_5">
+          <attribute name="title">
+           <string>Формула Байеса</string>
+          </attribute>
+         </widget>
+        </widget>
+       </item>
       </layout>
      </widget>
     </widget>
@@ -1121,7 +1224,7 @@ hr { height: 1px; border-width: 0; }
      <x>0</x>
      <y>0</y>
      <width>790</width>
-     <height>25</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
