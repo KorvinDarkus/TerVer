@@ -59,7 +59,7 @@ void MainWindow::on_spinBox_valueChanged(int h)
         inputs[i]->setEnabled(true);
         inputs2[i]->setEnabled(true);
     }
-    for(int i = 11; i > h; i--)
+    for(int i = 11; i >= h; i--)
     {
         inputs[i]->setValue(0.000);
         inputs[i]->setEnabled(false);
@@ -103,7 +103,7 @@ void MainWindow::on_ex3Button_clicked()
     {
         outputs[i]->setNum((inputs[i]->value()*inputs2[i]->value())/j);
     }
-    for(int i = 11; i > ui->spinBox->value(); i--)
+    for(int i = 11; i >= ui->spinBox->value(); i--)
     {
         outputs[i]->clear();
     }

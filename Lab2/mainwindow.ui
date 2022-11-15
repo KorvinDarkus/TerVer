@@ -687,6 +687,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="1" column="1">
             <widget class="QDoubleSpinBox" name="inpt2_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
@@ -969,6 +972,9 @@ hr { height: 1px; border-width: 0; }
            </item>
            <item row="1" column="1">
             <widget class="QDoubleSpinBox" name="inpt22_e3">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
              <property name="decimals">
               <number>3</number>
              </property>
