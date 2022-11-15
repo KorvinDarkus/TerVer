@@ -24,6 +24,8 @@ private slots:
 
     void on_ex31Button_clicked();
 
+    void on_ex3Button_clicked();
+
 private:
     Ui::MainWindow *ui;
 };

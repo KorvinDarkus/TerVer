@@ -65,6 +65,7 @@ void MainWindow::on_spinBox_valueChanged(int h)
         inputs[i]->setEnabled(false);
         inputs2[i]->setValue(0.000);
         inputs2[i]->setEnabled(false);
+
     }
 }
 
@@ -77,9 +78,34 @@ void MainWindow::on_ex31Button_clicked()
 
     for(int i = 0; i < ui->spinBox->value(); i++)
     {
-        j =(inputs[i]->value()*inputs2[i]->value());
+        j +=(inputs[i]->value()*inputs2[i]->value());
     }
 
     ui->ex3Result->setNum(j);
+}
+
+void MainWindow::on_ex3Button_clicked()
+{
+    QDoubleSpinBox *inputs[]={ui->inpt1_e3,ui->inpt2_e3,ui->inpt3_e3,ui->inpt4_e3,ui->inpt5_e3,ui->inpt6_e3,ui->inpt7_e3,ui->inpt8_e3,ui->inpt9_e3,ui->inpt10_e3,ui->inpt11_e3,ui->inpt12_e3};
+    QDoubleSpinBox *inputs2[]={ui->inpt21_e3,ui->inpt22_e3,ui->inpt23_e3,ui->inpt24_e3,ui->inpt25_e3,ui->inpt26_e3,ui->inpt27_e3,ui->inpt28_e3,ui->inpt29_e3,ui->inpt210_e3,ui->inpt211_e3,ui->inpt212_e3};
+
+    double j = 0;
+
+    for(int i = 0; i < ui->spinBox->value(); i++)
+    {
+        j +=(inputs[i]->value()*inputs2[i]->value());
+    }
+
+
+    QLabel *outputs[]={ui->ex3_out,ui->ex3_out_2,ui->ex3_out_3,ui->ex3_out_4,ui->ex3_out_5,ui->ex3_out_6,ui->ex3_out_7,ui->ex3_out_8,ui->ex3_out_9,ui->ex3_out_10,ui->ex3_out_11,ui->ex3_out_12};
+
+    for(int i = 0; i < ui->spinBox->value(); i++)
+    {
+        outputs[i]->setNum((inputs[i]->value()*inputs2[i]->value())/j);
+    }
+    for(int i = 11; i > ui->spinBox->value(); i--)
+    {
+        outputs[i]->clear();
+    }
 }
 
